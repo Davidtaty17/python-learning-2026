@@ -44,28 +44,69 @@ Focus: Python Conditionals + Loops
 
 
 
-## Skills
-- Python (12%): Variables, Types, Input/Output, Conditionals (learning)  
-- Linux (5%): VM Setup, Basic Commands  
-- Git (10%): Basic workflow
+
+## Technical Skills Development
+
+**Python:** 12%
+- Variables, data types, operators
+- Input/output operations
+- Conditionals (in progress)
+- Loops (pending)
+- Functions (pending)
+- Data structures (pending)
+- Object-oriented programming (pending)
+
+**Linux:** 5%
+- Ubuntu VM configuration
+- Basic CLI navigation
+- File system operations (pending)
+- Permissions management (pending)
+
+**Bash Scripting:** 0%
+- Scheduled to begin March 2026
+
+**Git/GitHub:** 10%
+- Repository management
+- Basic version control workflow
+- Branching and merging (pending)
+
+
+
 
 
 
 ## Resources
+
+   ## Currently Active
 - Cisco NetAcad Python Essentials 1
-- Linux Journey (starting Feb)
-- 30 Days of Python (starting March)
-- Exercism Python Track
-- Claude AI
+- Personal documentation system (handwritten notes, Notion summaries, GitHub documentation)
 
-
-##  Documentation
-
-Weekly notes: `/docs/weekly-notes/`
-
+   ## Planned Resources
+- Linux Journey (February 2026)
+- 30 Days of Python (March 2026)
+- Exercism Python Track (February 2026)
+- Bash Academy (March 2026)
 
 
 
+
+
+## Documentation
+
+- Weekly learning notes and progress tracking available in `/docs/weekly-notes/`
+
+- Technical reference materials in `/docs/cheatsheets/`
+
+
+
+## License
+
+This repository documents personal educational progress. Content available for educational reference.
+
+
+Repository Created: January 2026  
+Last Updated: January 15, 2026  
+Status: Active Development
 
 
                          *With Patience, Consistency, Resilience, Discipline and Faith I'll succeed* 
