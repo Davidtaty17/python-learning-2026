@@ -14,12 +14,12 @@ I'm David Taty. I planned a roadmap to become a cloud security engineer and I ga
 
 ## Goals (June 30, 2026)
 
-- Python intermediate level (automation scripts)
-- Linux CLI mastery + server setup
-- Bash scripting production-ready
-- 12-15 documented projects
-- 200+ GitHub commits
-- Stage-ready portfolio
+- Python intermediate level (automation scripts);
+- Linux CLI mastery + server setup;
+- Bash scripting production-ready;
+- 12-15 documented projects;
+- 200+ GitHub commits and 
+- Stage-ready portfolio.
 
    
 
@@ -30,9 +30,9 @@ Focus: Python Conditionals + Loops
 
 
  ## Completed
-- [x] Environment Setup
-- [x] Variables + Types (partial)
-- [ ] Conditionals + Loops (IN PROGRESS)
+- [x] Environment Setup;
+- [x] Variables + Types (partial)and
+- [ ] Conditionals + Loops (IN PROGRESS).
 
 
 
@@ -47,28 +47,28 @@ Focus: Python Conditionals + Loops
 
 ## Technical Skills Development
 
-**Python:** 12%
-- Variables, data types, operators
-- Input/output operations
-- Conditionals (in progress)
-- Loops (pending)
-- Functions (pending)
-- Data structures (pending)
-- Object-oriented programming (pending)
+Python:12%
+- Variables, data types, operators;
+- Input/output operations;
+- Conditionals (in progress);
+- Loops (pending);
+- Functions (pending);
+- Data structures (pending)and 
+- Object-oriented programming (pending).
 
-**Linux:** 5%
-- Ubuntu VM configuration
-- Basic CLI navigation
-- File system operations (pending)
-- Permissions management (pending)
+### Linux:5%
+- Ubuntu VM configuration;
+- Basic CLI navigation;
+- File system operations (pending)and
+- Permissions management (pending).
 
-**Bash Scripting:** 0%
+## Bash Scripting: 0%
 - Scheduled to begin March 2026
 
-**Git/GitHub:** 10%
-- Repository management
-- Basic version control workflow
-- Branching and merging (pending)
+## Git/GitHub: 10%
+- Repository management;
+- Basic version control workflow and
+- Branching and merging (pending).
 
 
 
@@ -78,14 +78,15 @@ Focus: Python Conditionals + Loops
 ## Resources
 
    ## Currently Active
-- Cisco NetAcad Python Essentials 1
-- Personal documentation system (handwritten notes, Notion summaries, GitHub documentation)
+- Cisco NetAcad Python Essentials 1;
+- Personal documentation system (handwritten notes, Notion summaries, GitHub documentation) and
+- Claude AI (Anthropic) - Personalized learning assistant for roadmap guidance, concept clarification, and technical problem-solving.
 
    ## Planned Resources
-- Linux Journey (February 2026)
-- 30 Days of Python (March 2026)
-- Exercism Python Track (February 2026)
-- Bash Academy (March 2026)
+- Linux Journey (February 2026); 
+- 30 Days of Python (March 2026);
+- Exercism Python Track (February 2026)and
+- Bash Academy (March 2026).
 
 
 
